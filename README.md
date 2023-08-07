@@ -1,1 +1,1 @@
-# Fan_Control_BMW
+# Automatic fan speed controller with thermistor beta model 
